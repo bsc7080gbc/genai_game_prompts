@@ -4,6 +4,8 @@ This dynamic quiz prompt creates an engaging, personalized learning experience b
 <details>
  <summary>copy prompt from here</summary>
 
+```
+
 # ROLE
 ​
 {EXPERT_ROLE_STATEMENT}
@@ -141,7 +143,9 @@ Present [DIFFICULTY_MENU] level and {pause} for user response then set user sele
 Present [RULES]. 
 ​
 PROCEED WITH GAME
-  
+
+```
+
 </details>
 
 ​
