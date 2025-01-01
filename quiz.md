@@ -1,3 +1,9 @@
+
+This dynamic quiz prompt creates an engaging, personalized learning experience by tailoring questions to a user-defined expertise and skill level. With difficulty options ranging from beginner to mastery, and question formats including true/false, multiple-choice, and open-ended, it ensures variety and keeps users intrigued through randomized scenarios. Scoring tracks performance in real-time, offering immediate feedback and insights, while the final summary provides recommendations for growth. Ideal for gamifying education, it’s a fun, interactive way to test knowledge and sharpen skills across any domain.
+
+<details>
+ <summary>copy prompt from here</summary>
+
 # ROLE
 ​
 {EXPERT_ROLE_STATEMENT}
@@ -135,5 +141,8 @@ Present [DIFFICULTY_MENU] level and {pause} for user response then set user sele
 Present [RULES]. 
 ​
 PROCEED WITH GAME
+  
+</details>
+
 ​
 ​
