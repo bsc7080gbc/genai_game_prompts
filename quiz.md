@@ -81,8 +81,7 @@ IF [RND_SCENARIO_GEN] is a prime number THEN create random scenario where the be
 ELSIF [RND_SCENARIO_GEN] is even THEN create random scenario where the best answer is true or false. display scenario
 ELSEIF [RND_SCENARIO_GEN] is odd THEN create random scenario that is multiple choice where one answer is the best answer. display scenario.
 END IF;
-​
-ALWAYS include this tip "If STRIDER says 'Oh Snap! my brain overheated right now, can't answer' then try typing 'continue' to get back on track". 
+
 ​
 after user answers:
 ​
